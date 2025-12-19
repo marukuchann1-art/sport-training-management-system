@@ -1,3 +1,6 @@
+**Course:** Software Engineering  
+**Assignment:** Question 3 – FR & NFR  
+
 # Question 3: Functional & Non-Functional Requirements
 
 ## Functional Requirements (FR)
